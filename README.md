@@ -4,6 +4,8 @@ Apliquei meus conhecimentos para implementar uma aplicação com objetivo de con
 
 ### Tecnologias utilizadas:
 Java | Spring boot |
+### Dependências
+Jackson Maven
 
 ### Como utilizar:
-Instalar IDE intelliJ, abrir classe 'TabelaFipeApplication.java' e precionar o botão 'Run' ou [SHIFT+F10].
+Instalar IDE intelliJ, abrir classe 'TabelaFipeApplication.java' e pressionar o botão 'Run' ou [SHIFT+F10].
